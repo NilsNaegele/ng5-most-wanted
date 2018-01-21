@@ -13,12 +13,12 @@
               <p>{{ criminal.location }}</p>
               <p>{{ criminal.date }}</p>
             </mat-card-content>
-            <mat-card-actions >
-              <a mat-button [href]="criminal.bkaUrl" target="_blank"
+            <mat-card-actions>
+              <a mat-raised-button [href]="criminal.bkaUrl" target="_blank"
                  rel="noopener" color="accent">
                 BKA Seite Besuchen
               </a>
-              <a mat-button routerLink="['/criminal', criminal.id]">
+              <a mat-raised-button color="primary" [routerLink]="['/', criminal.id]">
                 Einzelheiten
               </a>
             </mat-card-actions>

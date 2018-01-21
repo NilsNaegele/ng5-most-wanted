@@ -1,0 +1,32 @@
+<mat-card class="card" *ngIf="criminal">
+  <mat-card-header>
+    <div mat-card-avatar></div>
+        <mat-card-title>
+          <h1>{{ criminal[0].name }}</h1>
+        </mat-card-title>
+        <mat-card-subtitle>
+            <h2>{{ goal }}</h2>
+        </mat-card-subtitle>
+  </mat-card-header>
+  <img mat-card-image src="../../assets/images/{{criminal[0].imageUrl}}"
+                      alt="{{criminal[0].name}} 'Bild'">
+  <mat-card-content>
+    <p class="center">
+      {{ criminal[0].description }}
+    </p>
+  </mat-card-content>
+  <mat-card-actions class="actions">
+    <a mat-raised-button color="primary" [href]="criminal[0].bkaUrl" target="_blank">
+      BKA Seite Besuchen
+    </a>
+    <a mat-raised-button color="primary" [routerLink]="['/']">
+        Unsere Liste
+    </a>
+    <a mat-raised-button color="primary">
+       Hinweis abgeben
+    </a>
+  </mat-card-actions>
+  <mat-card-footer>
+      <mat-progress-bar mode="indeterminate"></mat-progress-bar>
+    </mat-card-footer>
+</mat-card>
