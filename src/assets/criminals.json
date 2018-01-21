@@ -1,0 +1,218 @@
+[ null, {
+  "id" : 1,
+  "name" : "Un­be­kann­te Per­son",
+  "imageUrl" : "logo-hamburg.jpg",
+  "location": "Gesucht, Hamburg G20",
+  "date": "22. Dezember 2017",
+  "bkaUrl": "https://www.bka.de/DE/IhreSicherheit/Fahndungen/Personen/UnbekanntePersonen/Ausschreitungen_G20Hamburg/Sachverhalt.html",
+  "description" : "Während des Anti-G20-Protestes wurden schwere Straftaten verübt. Mit dieser Öffentlichkeitsfahndung bitten die Polizei Hamburg und die Staatsanwaltschaft Hamburg die Bevölkerung um Mithilfe."
+},
+{
+  "id" : 2,
+  "name" : "Un­be­kann­te Per­son",
+  "imageUrl" : "taeter2.jpg",
+  "location": "Gesucht, Münster, Nordrhein-Westfalen",
+  "date": "20. Dezember 2017",
+  "bkaUrl": "https://www.bka.de/DE/IhreSicherheit/Fahndungen/Personen/UnbekanntePersonen/Unbekannte_T%C3%A4tverd%C3%A4chtige_M%C3%BCnster/Sachverhalt.html",
+  "description" : "Im Zuge der Ermittlungen nach den Tätern eines Einbruchs in ein Optikergeschäft gaben aufmerksame Zeugen Hinweise auf drei verdächtige Personen, vermutlich Südosteuropäer, die mit dem Einbruch in Zusammenhang stehen können."
+},
+{
+  "id" : 3,
+  "name" : "Un­be­kann­te Per­son",
+  "imageUrl" : "taeter3.jpg",
+  "location": "Gesucht, /Tatort: Limbach (Taunus), Hessen",
+  "date": "13. Dezember 2017",
+  "bkaUrl": "https://www.bka.de/DE/IhreSicherheit/Fahndungen/Personen/UnbekanntePersonen/Sexueller_Missbrauch_in_Limbach/Sachverhalt.html",
+  "description" : "Nach dem sexuellen Übergriff auf ein 11-jähriges Mädchen am Freitag, 29.09.2017 in Limbach (Taunus) Hessen, bittet die Wiesbadener Kriminalpolizei die Öffentlichkeit um Mithilfe."
+},
+{
+  "id" : 4,
+  "name" : "Gar­weg, Burk­hard",
+  "imageUrl" : "taeter4.jpg",
+  "location": "Gesucht, Niedersachsen",
+  "date": "13. November 2017",
+  "bkaUrl": "https://www.bka.de/DE/IhreSicherheit/Fahndungen/Personen/BekanntePersonen/RAF_Aktuell/Garweg_Burkhard/Garweg_Burkhard.html",
+  "description" : "Die Staatsanwaltschaft Verden (Niedersachsen) ermittelt gegen Ernst-Volker Staub (*30.10.1954), Burkhard Garweg (*01.09.1968) sowie Daniela Klette (*05.11.1958) wegen des Verdachts des versuchten Mordes und des versuchten schweren Raubes. Sie werden verdächtigt, für Überfälle auf Geldtransporter verantwortlich zu sein."
+},
+{
+  "id" : 5,
+  "name" : "Klette, Daniela",
+  "imageUrl" : "taeter5.jpg",
+  "location": "Gesucht, Niedersachsen",
+  "date": "13. November 2017",
+  "bkaUrl": "https://www.bka.de/DE/IhreSicherheit/Fahndungen/Personen/BekanntePersonen/RAF_Aktuell/Klette_Daniela/Klette_Daniela.html",
+  "description" : "Die Staatsanwaltschaft Verden (Niedersachsen) ermittelt gegen Ernst-Volker Staub (*30.10.1954), Burkhard Garweg, (*01.09.1968) sowie Daniela Klette (*05.11.1958) wegen des Verdachts des versuchten Mordes und des versuchten schweren Raubes. Sie werden verdächtigt, für Überfälle auf Geldtransporter verantwortlich zu sein."
+},
+{
+  "id" : 6,
+  "name" : "Staub, Ernst-Vol­ker",
+  "imageUrl" : "taeter6.jpg",
+  "location": "Gesucht, Niedersachsen",
+  "date": "13. November 2017",
+  "bkaUrl": "https://www.bka.de/DE/IhreSicherheit/Fahndungen/Personen/BekanntePersonen/RAF_Aktuell/Staub_Ernst/Staub_Ernst-Volker.html",
+  "description" : "Die Staatsanwaltschaft Verden (Niedersachsen) ermittelt gegen Ernst-Volker Staub (*30.10.1954), Burkhard Garweg, (*01.09.1968) sowie Daniela Klette (*05.11.1958) wegen des Verdachts des versuchten Mordes und des versuchten schweren Raubes. Sie werden verdächtigt, für Überfälle auf Geldtransporter verantwortlich zu sein."
+},
+{
+  "id" : 7,
+  "name" : "Un­be­kann­te Per­son",
+  "imageUrl" : "taeter7.jpg",
+  "location": "Gesucht, unbekannt",
+  "date": "27. September 2017",
+  "bkaUrl": "https://www.bka.de/DE/IhreSicherheit/Fahndungen/Personen/UnbekanntePersonen/Brandanschlaege_Gleis/Sachverhalt.html",
+  "description" : "„Unbekannte Täter verübten in den frühen Morgenstunden des 19. Juni 2017 bis gegen 05:00 Uhr an 13 Tatorten im gesamten Bundesgebiet (Berlin, Bremen, Hamburg, Niedersachsen, Nordrhein-Westfalen und Sachsen) Brandanschläge auf Kabelschächte entlang von Bahnanlagen."
+},
+{
+  "id" : 8,
+  "name" : "Al­he­ter, Sak­her",
+  "imageUrl" : "taeter8.jpg",
+  "location": "Gesucht, derzeit unbekannt, Nordrhein-Westfalen",
+  "date": "01. September 2017",
+  "bkaUrl": "https://www.bka.de/DE/IhreSicherheit/Fahndungen/Personen/BekanntePersonen/AlaliMohammad/Alheter_Sakher/FahndungMKWuppertal.html",
+  "description" : "In Wuppertal-Elberfeld kam es am Freitag, den 18.08.2017, gegen 14.45 Uhr, an der Straße Kipdorf in Wuppertal-Elberfeld zu einer körperlichen Auseinandersetzung, in deren Verlauf ein 31-jähriger Iraker durch Messerstiche tödlich und sein 25-jähriger Bruder schwer verletzt wurden."
+},
+{
+  "id" : 9,
+  "name" : "Ala­li, Mo­hammad",
+  "imageUrl" : "taeter9.jpg",
+  "location": "Gesucht, derzeit unbekannt, Nordrhein-Westfalen",
+  "date": "01. September 2017",
+  "bkaUrl": "https://www.bka.de/DE/IhreSicherheit/Fahndungen/Personen/BekanntePersonen/AlaliMohammad/FahndungMKWuppertal.html",
+  "description" : "In Wuppertal-Elberfeld kam es am Freitag, den 18.08.2017, gegen 14.45 Uhr, an der Straße Kipdorf in Wuppertal-Elberfeld zu einer körperlichen Auseinandersetzung, in deren Verlauf ein 31-jähriger Iraker durch Messerstiche tödlich und sein 25-jähriger Bruder schwer verletzt wurden."
+},
+{
+  "id" : 10,
+  "name" : "Kan­nan, Poon­go­di",
+  "imageUrl" : "taeter10.jpg",
+  "location": "Gesucht, Schaumburger Str. 5, 65936 Frankfurt/M., Hessen",
+  "date": "29. Juni 2017",
+  "bkaUrl": "https://www.bka.de/DE/IhreSicherheit/Fahndungen/Personen/BekanntePersonen/Kannan/Sachverhalt_Kannan.html",
+  "description" : "Das Bundeskriminalamt Wiesbaden und die Steuerfahndungsstelle des Finanzamtes Darmstadt fahnden wegen des Verdachts der schweren Steuerhinterziehung im Zusammenhang mit dem betrügerischen Handel von Mobiltelefonen, Tablets sowie weiteren Unterhaltungselektronikartikeln nach der deutschen Staatsangehörigen."
+},
+{
+  "id" : 11,
+  "name" : "Mu­hammad, Ashraf",
+  "imageUrl" : "taeter11.jpg",
+  "location": "Gesucht",
+  "date": "25. August 2016",
+  "bkaUrl": "https://www.bka.de/DE/IhreSicherheit/Fahndungen/Personen/BekanntePersonen/Muhammad_Iqbal/Muhammad/muhammad.html",
+  "description" : "Die Generalstaatsanwaltschaft Frankfurt am Main –Eingreifreserve- fahndet gemeinsam mit dem Bundeskriminalamt Wiesbaden und hessischen Steuerfahndungsdienststellen wegen des Verdachts der schweren Steuerhinterziehung im Zusammenhang mit dem betrügerischen Handel von Emissionsrechten nach den pakistanischen Staatsangehörigen Mobeen Iqbal und Ashraf Muhammad."
+},
+{
+  "id" : 12,
+  "name" : "Heid­b­re­der, Bern­hard",
+  "imageUrl" : "taeter12.jpg",
+  "location": "Gesucht, Berlin-Grünau, Berlin",
+  "date": "07. April 2016",
+  "bkaUrl": "https://www.bka.de/DE/IhreSicherheit/Fahndungen/Personen/BekanntePersonen/KrauthWalterHeidbreder/Heidbreder/heidbreder.html",
+  "description" : "HEIDBREDER, KRAUTH und WALTER beabsichtigten in der Nacht vom 10./11. April 1995 das seinerzeit im Umbau befindliche Abschiebegefängnis in Berlin-Grünau mit ca. 120 Kg Sprengstoff (in Propangasflaschen gefüllte Selbstlaborate) in die Luft zu sprengen."
+},
+{
+  "id" : 13,
+  "name" : "Wal­ter, Tho­mas",
+  "imageUrl" : "taeter13.jpg",
+  "location": "Gesucht, Berlin-Grünau, Berlin",
+  "date": "07. April 2016",
+  "bkaUrl": "https://www.bka.de/DE/IhreSicherheit/Fahndungen/Personen/BekanntePersonen/KrauthWalterHeidbreder/Walter/walter.html",
+  "description" : "HEIDBREDER, KRAUTH und WALTER beabsichtigten in der Nacht vom 10./11. April 1995 das seinerzeit im Umbau befindliche Abschiebegefängnis in Berlin-Grünau mit ca. 120 Kg Sprengstoff (in Propangasflaschen gefüllte Selbstlaborate) in die Luft zu sprengen."
+},
+{
+  "id" : 14,
+  "name" : "Krauth, Pe­ter",
+  "imageUrl" : "taeter14.jpg",
+  "location": "Gesucht, Berlin-Grünau, Berlin",
+  "date": "07. April 2016",
+  "bkaUrl": "https://www.bka.de/DE/IhreSicherheit/Fahndungen/Personen/BekanntePersonen/KrauthWalterHeidbreder/Krauth/krauth.html",
+  "description" : "HEIDBREDER, KRAUTH und WALTER beabsichtigten in der Nacht vom 10./11. April 1995 das seinerzeit im Umbau befindliche Abschiebegefängnis in Berlin-Grünau mit ca. 120 Kg Sprengstoff (in Propangasflaschen gefüllte Selbstlaborate) in die Luft zu sprengen."
+},
+{
+  "id" : 15,
+  "name" : "Ab­del­laoui, Mo­ha­med",
+  "imageUrl" : "taeter15.jpg",
+  "location": "Gesucht, Bremen",
+  "date": "09. Februar 2016",
+  "bkaUrl": "https://www.bka.de/DE/IhreSicherheit/Fahndungen/Personen/BekanntePersonen/Abdellaoui/Abdellaoui_Mohamed.html",
+  "description" : "Die Polizei Bremen fahndet nach Mohamed ABDELLAOUI wegen Totschlag und gefährlicher Köperverletzung. Der Gesuchte steht im Verdacht, am 26.09.2014 in Bremen einen minderjährigen Flüchtling aus Marokko durch Messerstiche getötet zu haben."
+},
+{
+  "id" : 16,
+  "name" : "Er­mitt­lun­gen ge­gen Mit­glie­der des NSU, Po­li­zis­ten­mord 2007 Heil­bronn",
+  "imageUrl" : "taeter16.jpg",
+  "location": "Gesucht, Heilbronn, Baden-Württemberg",
+  "date": "17. Juli 2015",
+  "bkaUrl": "https://www.bka.de/DE/IhreSicherheit/Fahndungen/Personen/BekanntePersonen/NSUHeilbronn/NSUHeilbronn.html",
+  "description" : "Am 25. April 2007 wurden in Heilbronn/Baden-Württemberg eine Polizeivollzugsbeamtin ermordet und ein weiterer Polizeibeamter lebensgefährlich verletzt. Bundesanwaltschaft und BKA gehen davon aus, dass beide Taten von den Mitgliedern der terroristischen Vereinigung 'Nationalsozialistischer Untergrund' (NSU) begangen wurden."
+},
+{
+  "id" : 17,
+  "name" : "Un­be­kann­te Per­son",
+  "imageUrl" : "taeter17.jpg",
+  "location": "Gesucht, Schlitz, Hessen",
+  "date": "01. Juli 2015",
+  "bkaUrl": "https://www.bka.de/DE/IhreSicherheit/Fahndungen/Personen/UnbekanntePersonen/Entf%C3%BChrung_Schlitz/Sachverhalt_Entf%C3%BChrung_Schlitz.html",
+  "description" : "Am Mittag des 17.06.2015 (Mittwoch) entführten unbekannte Täter in Schlitz/Hessen einen 50-jährigen Mann. Danach erreichte die Eltern des Entführten eine Lösegeldforderung in Millionenhöhe. Zu einer Geldübergabe kam es jedoch nicht."
+},
+{
+  "id" : 18,
+  "name" : "Iq­bal, Mo­be­en",
+  "imageUrl" : "taeter18.jpg",
+  "location": "Gesucht",
+  "date": "02. April 2015",
+  "bkaUrl": "https://www.bka.de/DE/IhreSicherheit/Fahndungen/Personen/BekanntePersonen/Muhammad_Iqbal/Iqbal/iqbal.html",
+  "description" : "Die Generalstaatsanwaltschaft Frankfurt am Main –Eingreifreserve- fahndet gemeinsam mit dem Bundeskriminalamt Wiesbaden und hessischen Steuerfahndungsdienststellen wegen des Verdachts der schweren Steuerhinterziehung im Zusammenhang mit dem betrügerischen Handel von Emissionsrechten nach den pakistanischen Staatsangehörigen Mobeen Iqbal und Ashraf Muhammad."
+},
+{
+  "id" : 19,
+  "name" : "Su­le­mann Mo­ham­med, Shak­hwan",
+  "imageUrl" : "taeter19.jpg",
+  "location": "Gesucht",
+  "date": "27. März 2015",
+  "bkaUrl": "https://www.bka.de/DE/IhreSicherheit/Fahndungen/Personen/BekanntePersonen/SulemanMohammed/SulemannMohammed.html",
+  "description" : "Am 23.03.2015 wurde eine Frau in ihrer Wohnung in Bremen tot aufgefunden. Tatverdächtig ist ihr Ex-Ehemann, Shakhwan SULEMANN MOHAMMED."
+},
+{
+  "id" : 20,
+  "name" : "Kaus, Er­win",
+  "imageUrl" : "taeter20.jpg",
+  "location": "Gesucht",
+  "date": "27. Februar 2015",
+  "bkaUrl": "https://www.bka.de/DE/IhreSicherheit/Fahndungen/Personen/BekanntePersonen/Kaus_und_Benavides/Kaus_Erwin.html",
+  "description" : "Die bayerischen Justizbehörden fahnden mit internationalem Haftbefehl nach Erwin Kaus und dessen Ehefrau Dolores Benavides Iglesias wegen schweren Betruges und Geldwäsche in Millionenhöhe."
+},
+{
+  "id" : 21,
+  "name" : "Se­li­mi, Ka­stri­ot",
+  "imageUrl" : "taeter21.jpg",
+  "location": "Gesucht",
+  "date": "05. November 2014",
+  "bkaUrl": "https://www.bka.de/DE/IhreSicherheit/Fahndungen/Personen/BekanntePersonen/Selimi/SelimiKastriot/selimiKastriot.html",
+  "description" : "Er steht im dringenden Tatverdacht, als Gründer und Rädelsführer einer kriminellen Vereinigung im Zusammenhang mit dem Betreiben des Raubkopienportals kinox.to spätestens seit dem 21. Juni 2011 und ihrer Filehoster freakshare.com und bitshare.com bereits seit spätestens 2009 Straftaten wie Räuberische Erpressung, Nötigung, Brandstiftung, Urheberrechtsverletzung und Steuerhinterziehung begangen zu haben."
+},
+{
+  "id" : 22,
+  "name" : "Ba­ha­ji, Said",
+  "imageUrl" : "taeter22.jpg",
+  "location": "Gesucht",
+  "date": "01. Dezember 2006",
+  "bkaUrl": "https://www.bka.de/DE/IhreSicherheit/Fahndungen/Personen/BekanntePersonen/Bahaji/bahaji.html",
+  "description" : "Bahaji steht im dringenden Verdacht, an den Terroranschlägen in den Vereinigten Staaten beteiligt gewesen zu sein. Der Ermittlungsrichter des Bundesgerichtshofes hat daher Haftbefehl gegen die Person wegen des Verdachts der Mitgliedschaft in einer terroristischen Vereinigung, des mehrtausendfachen Mordes und anderer schwerer Straftaten erlassen."
+},
+{
+  "id" : 23,
+  "name" : "Staub, Ernst-Vol­ker Wil­helm",
+  "imageUrl" : "taeter23.jpg",
+  "location": "Gesucht",
+  "date": "30. November 2006",
+  "bkaUrl": "https://www.bka.de/DE/IhreSicherheit/Fahndungen/Personen/BekanntePersonen/RAF_Alt/Staub/staub.html",
+  "description" : "Fahndung nach ehemaligen Mitgliedern der 'Rote Armee Fraktion (RAF)'. Im Zusammenhang mit den Straftaten der 'RAF' fahndet das Bundeskriminalamt im Auftrag des Generalbundesanwalts beim Bundesgerichtshof unter anderem nach dem Beschuldigten Ernst-Volker Wilhelm Staub."
+},
+{
+  "id" : 24,
+  "name" : "Franz, Nor­man Vol­ker",
+  "imageUrl" : "taeter24.jpg",
+  "location": "Gesucht",
+  "date": "24. Oktober 2006",
+  "bkaUrl": "https://www.bka.de/DE/IhreSicherheit/Fahndungen/Personen/BekanntePersonen/Franz_Norman/Sachverhalt_Franz_Norman.html",
+  "description" : "Norman Volker Franz hatte wegen Doppelmordes eine lebenslange Freiheitsstrafe zu verbüßen. Am 11.03.1997 gelang ihm die Flucht aus der Justizvollzugsanstalt Hagen."
+}
+
+]

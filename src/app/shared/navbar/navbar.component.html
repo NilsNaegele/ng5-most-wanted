@@ -1,0 +1,45 @@
+<mat-sidenav-container>
+  <mat-sidenav #sidenav>
+    <mat-list>
+      <mat-list-item class="side-nav">Mein Konto</mat-list-item>
+      <mat-list-item class="side-nav">Hinweis abgeben</mat-list-item>
+      <mat-list-item class="side-nav">Anmelden</mat-list-item>
+      <mat-list-item class="side-nav">Abmelden</mat-list-item>
+    </mat-list>
+  </mat-sidenav>
+  <mat-toolbar color="primary" class="sticky-header">
+    <button mat-button class="show-small"><mat-icon>menu</mat-icon></button>
+    <a href="https://www.bka.de/" target="_blank">
+      <img src="../../../assets/images/bundesadler.png"
+           class="align-middle navbar-photo"
+           alt="Bundesadler">
+    </a>
+    <span class="navbar-spacer"></span>
+    <button mat-button class="hide-small top-nav">Hinweis abgeben</button>
+    <button mat-button
+         href="https://github.com/NilsNaegele/ng5-most-wanted"
+         target="_blank"
+         rel="noopener">
+        <img src="../../../assets/images/github-white.svg" alt="GitHub Logo"
+             class="align-middle navbar-photo">
+    </button>
+    <!--  <button mat-button class="hide-small top-nav" [matMenuTriggerFor]="menu">
+      <img src="" alt="" class="align-middle navbar-photo navbar-pic">
+    </button>
+   <mat-menu #menu="matMenu">
+      <button mat-menu-item>
+        <mat-icon>account_circle</mat-icon>
+        <span>Profil</span>
+      </button>
+      <button mat-menu-item>
+          <mat-icon>exit_to_app</mat-icon>
+          <span>Abmelden</span>
+      </button>
+    </mat-menu> -->
+    <a mat-button class="hide-small top-nav">Anmelden</a>
+  </mat-toolbar>
+  <div content-section class="full-window">
+    <div class="navbar-spacing"></div>
+    <ng-content></ng-content>
+  </div>
+</mat-sidenav-container>

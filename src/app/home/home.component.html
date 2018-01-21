@@ -1,0 +1,28 @@
+<div class="container card-position">
+  <div class="row">
+    <div *ngFor="let criminal of criminals | async" class="col-lg-4 col-md-4 col-sm-6 col-12">
+      <mat-card class="card">
+            <mat-card-header>
+              <mat-card-title>
+                  <h2>{{ criminal.name }}</h2>
+              </mat-card-title>
+            </mat-card-header>
+                <img mat-card-image src="../../assets/images/{{criminal.imageUrl}}"
+                                    alt="{{criminal.name}} Bild">
+            <mat-card-content class="position">
+              <p>{{ criminal.location }}</p>
+              <p>{{ criminal.date }}</p>
+            </mat-card-content>
+            <mat-card-actions >
+              <a mat-button [href]="criminal.bkaUrl" target="_blank"
+                 rel="noopener" color="accent">
+                BKA Seite Besuchen
+              </a>
+              <a mat-button routerLink="['/criminal', criminal.id]">
+                Einzelheiten
+              </a>
+            </mat-card-actions>
+      </mat-card>
+    </div>
+  </div>
+</div>
