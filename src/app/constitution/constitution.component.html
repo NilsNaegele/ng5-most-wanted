@@ -1,0 +1,27 @@
+<div class="container card-position">
+  <mat-toolbar class="toolbar mat-typography" color="accent">
+      {{ honor | uppercase }}
+  </mat-toolbar>
+  <div class="row">
+    <div *ngFor="let law of constitution | async"
+          class="col-lg-3 col-md-4 col-sm-6 col-12">
+      <mat-card class="card">
+          <mat-card-header>
+            <mat-card-title>
+                  <h2>{{ law.title }}</h2>
+            </mat-card-title>
+          </mat-card-header>
+          <img mat-card-image src="../../assets/images/{{law.imageUrl}}" alt="Bundesadler">
+          <mat-card-actions class="center-buttons">
+              <a mat-raised-button color="primary" href="https://bka.de" target="_blank">
+                BKA
+              </a>
+              <a mat-raised-button color="primary"
+                 [routerLink]="['/constitution/', law.id]">
+              UNSER GESETZ
+              </a>
+          </mat-card-actions>
+      </mat-card>
+    </div>
+  </div>
+</div>

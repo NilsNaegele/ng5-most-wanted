@@ -1,7 +1,7 @@
 import { Injectable } from '@angular/core';
 
-import { AngularFireDatabase, AngularFireList,
-         AngularFireObject } from 'angularfire2/database';
+import { AngularFireDatabase, AngularFireList, AngularFireObject } from 'angularfire2/database';
+
 import { Observable } from 'rxjs/Observable';
 
 @Injectable()
@@ -25,7 +25,7 @@ export class ArrestService {
      return this.criminals;
    }
 
-   getCriminalById(criminalId): Observable<any> {
+   getCriminalById(criminalId: number): Observable<any> {
      return this.criminals.map(criminals => {
        return criminals.filter(criminal => criminal.key === criminalId);
      });

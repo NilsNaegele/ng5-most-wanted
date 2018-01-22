@@ -1,8 +1,19 @@
+import { ConstitutionDetailComponent } from './constitution/constitution-detail/constitution-detail.component';
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { Routes, RouterModule } from '@angular/router';
 
+import { ConstitutionComponent } from './constitution/constitution.component';
+
 const routes: Routes = [
+  {
+    path: 'constitution',
+    component: ConstitutionComponent
+  },
+  {
+    path: 'constitution/:id',
+    component: ConstitutionDetailComponent
+  },
   {
     path: '',
     loadChildren: 'app/home/home.module#HomeModule'
@@ -12,6 +23,7 @@ const routes: Routes = [
     redirectTo: '',
     pathMatch: 'full'
   },
+
   {
     path: '**',
     redirectTo: ''

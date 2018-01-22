@@ -1,0 +1,23 @@
+<mat-card class="card" *ngIf="law">
+    <mat-card-header class="center">
+      <div mat-card-avatar class="example-header-image"></div>
+      <mat-card-title ><h1>{{ law[0].title }}</h1></mat-card-title>
+      <mat-card-subtitle>
+      </mat-card-subtitle>
+    </mat-card-header>
+    <img mat-card-image src="../../assets/images/{{law[0].imageUrl}}"
+      alt="law[0].name + 'logo'">
+    <mat-card-content>
+      <p class="content">
+          {{ law[0].german }}
+      </p>
+    </mat-card-content>
+    <mat-card-actions class="center-buttons">
+      <a mat-raised-button color="warn" href="https://www.bka.de/" target="_blank">
+        BKA BESUCHEN
+      </a>
+      <a mat-raised-button color="primary" [routerLink]="['/constitution']">
+        GRUNDGESETZ ÜBERSICHT
+      </a>
+    </mat-card-actions>
+  </mat-card>

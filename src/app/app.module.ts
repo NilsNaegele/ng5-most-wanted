@@ -8,10 +8,14 @@ import { SharedModule } from './shared/shared.module';
 import { AppRoutingModule } from './app-routing.module';
 
 import { AppComponent } from './app.component';
+import { ConstitutionComponent } from './constitution/constitution.component';
+import { ConstitutionDetailComponent } from './constitution/constitution-detail/constitution-detail.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    ConstitutionComponent,
+    ConstitutionDetailComponent
   ],
   imports: [
     BrowserModule,

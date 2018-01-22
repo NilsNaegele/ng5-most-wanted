@@ -9,6 +9,7 @@ import { environment } from '../../environments/environment';
 import { NGMeta } from 'ngmeta';
 
 import { ArrestService } from './services/arrest.service';
+import { ConstitutionService } from './services/constitution.service';
 
 @NgModule({
   imports: [
@@ -18,7 +19,7 @@ import { ArrestService } from './services/arrest.service';
     AngularFireModule.initializeApp(environment.firebase)
   ],
   declarations: [],
-  providers: [NGMeta, ArrestService ]
+  providers: [NGMeta, ArrestService, ConstitutionService ]
 })
 export class CoreModule {
 

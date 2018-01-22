@@ -1,0 +1,111 @@
+[
+  null,
+  {
+    "german": "Die Würde des Menschen ist unantastbar. Sie zu achten und zu schützen ist Verpflichtung aller staatlichen Gewalt.",
+    "id": 1,
+    "imageUrl": "bka-adler.jpg",
+    "title": "Artikel 1"
+  },
+  {
+    "german": "Jeder hat das Recht auf die freie Entfaltung seiner Persönlichkeit, soweit er nicht die Rechte anderer verletzt und nicht gegen die verfassungsmäßige Ordnung oder das Sittengesetz verstößt.",
+    "id": 2,
+    "imageUrl": "bka-adler.jpg",
+    "title": "Artikel 2"
+  },
+  {
+    "german": "Alle Menschen sind vor dem Gesetz gleich. Männer und Frauen sind gleichberechtigt.",
+    "id": 3,
+    "imageUrl": "bka-adler.jpg",
+    "title": "Artikel 3"
+  },
+  {
+    "german": "Die Freiheit des Glaubens, des Gewissens und die Freiheit des religiösen und weltanschaulichen Bekenntnisses sind unverletzlich.",
+    "id": 4,
+    "imageUrl": "bka-adler.jpg",
+    "title": "Artikel 4"
+  },
+  {
+    "german": "Jeder hat das Recht, seine Meinung in Wort, Schrift und Bild frei zu äußern und zu verbreiten und sich aus allgemein zugänglichen Quellen ungehindert zu unterrichten.",
+    "id": 5,
+    "imageUrl": "bka-adler.jpg",
+    "title": "Artikel 5"
+  },
+  {
+    "german": " Ehe und Familie stehen unter dem besonderen Schutze der staatlichen Ordnung.",
+    "id": 6,
+    "imageUrl": "bka-adler.jpg",
+    "title": "Artikel 6"
+  },
+  {
+    "german": "Das gesamte Schulwesen steht unter der Aufsicht des Staates.",
+    "id": 7,
+    "imageUrl": "bka-adler.jpg",
+    "title": "Artikel 7"
+  },
+  {
+    "german": "Alle Deutschen haben das Recht, sich ohne Anmeldung oder Erlaubnis friedlich und ohne Waffen zu versammeln.",
+    "id": 8,
+    "imageUrl": "bka-adler.jpg",
+    "title": "Artikel 8"
+  },
+  {
+    "german": "Alle Deutschen haben das Recht, Vereine und Gesellschaften zu bilden.",
+    "id": 9,
+    "imageUrl": "bka-adler.jpg",
+    "title": "Artikel 9"
+  },
+  {
+    "german": "Das Briefgeheimnis sowie das Post- und Fernmeldegeheimnis sind unverletzlich.",
+    "id": 10,
+    "imageUrl": "bka-adler.jpg",
+    "title": "Artikel 10"
+  },
+  {
+    "german": "Alle Deutschen genießen Freizügigkeit im ganzen Bundesgebiet.",
+    "id": 11,
+    "imageUrl": "bka-adler.jpg",
+    "title": "Artikel 11"
+  },
+  {
+    "german": "Alle Deutschen haben das Recht, Beruf, Arbeitsplatz und Ausbildungsstätte frei zu wählen.",
+    "id": 12,
+    "imageUrl": "bka-adler.jpg",
+    "title": "Artikel 12"
+  },
+  {
+    "german": "Die Wohnung ist unverletzlich.",
+    "id": 13,
+    "imageUrl": "bka-adler.jpg",
+    "title": "Artikel 13"
+  },
+  {
+    "german": "Das Eigentum und das Erbrecht werden gewährleistet. Inhalt und Schranken werden durch die Gesetze bestimmt.",
+    "id": 14,
+    "imageUrl": "bka-adler.jpg",
+    "title": "Artikel 14"
+  },
+  {
+    "german": "Grund und Boden, Naturschätze und Produktionsmittel können zum Zwecke der Vergesellschaftung durch ein Gesetz, das Art und Ausmaß der Entschädigung regelt, in Gemeineigentum oder in andere Formen der Gemeinwirtschaft überführt werden.",
+    "id": 15,
+    "imageUrl": "bka-adler.jpg",
+    "title": "Artikel 15"
+  },
+  {
+    "german": "Die deutsche Staatsangehörigkeit darf nicht entzogen werden. Kein Deutscher darf an das Ausland ausgeliefert werden.",
+    "id": 16,
+    "imageUrl": "bka-adler.jpg",
+    "title": "Artikel 16"
+  },
+  {
+    "german": "Jedermann hat das Recht, sich einzeln oder in Gemeinschaft mit anderen schriftlich mit Bitten oder Beschwerden an die zuständigen Stellen und an die Volksvertretung zu wenden.",
+    "id": 17,
+    "imageUrl": "bka-adler.jpg",
+    "title": "Artikel 17"
+  },
+  {
+    "german": "Wer diese Grundrechte mißbraucht zum Kampfe gegen die freiheitliche demokratische Grundordnung, verwirkt diese Grundrechte.",
+    "id": 18,
+    "imageUrl": "bka-adler.jpg",
+    "title": "Artikel 18"
+  }
+]

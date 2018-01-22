@@ -15,7 +15,9 @@
            alt="Bundesadler">
     </a>
     <span class="navbar-spacer"></span>
-    <button mat-button class="hide-small top-nav">Hinweis abgeben</button>
+    <a mat-button (click)="navigateToSearch()">GESUCHTE</a>
+    <a mat-button (click)="navigateToAllLaws()">GRUNDGESETZ</a>
+    <button mat-button class="hide-small top-nav">HINWEIS ABGEBEN</button>
     <button mat-button
          href="https://github.com/NilsNaegele/ng5-most-wanted"
          target="_blank"
@@ -36,7 +38,7 @@
           <span>Abmelden</span>
       </button>
     </mat-menu> -->
-    <a mat-button class="hide-small top-nav">Anmelden</a>
+    <a mat-button class="hide-small top-nav">ANMELDEN</a>
   </mat-toolbar>
   <div content-section class="full-window">
     <div class="navbar-spacing"></div>
