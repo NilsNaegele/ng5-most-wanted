@@ -10,12 +10,15 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { ConstitutionComponent } from './constitution/constitution.component';
 import { ConstitutionDetailComponent } from './constitution/constitution-detail/constitution-detail.component';
+import { ConstitutionPreambleComponent } from './constitution/constitution-preamble/constitution-preamble.component';
+
 
 @NgModule({
   declarations: [
     AppComponent,
     ConstitutionComponent,
-    ConstitutionDetailComponent
+    ConstitutionDetailComponent,
+    ConstitutionPreambleComponent
   ],
   imports: [
     BrowserModule,

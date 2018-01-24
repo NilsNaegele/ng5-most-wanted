@@ -1,11 +1,16 @@
-import { ConstitutionDetailComponent } from './constitution/constitution-detail/constitution-detail.component';
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { Routes, RouterModule } from '@angular/router';
 
 import { ConstitutionComponent } from './constitution/constitution.component';
+import { ConstitutionDetailComponent } from './constitution/constitution-detail/constitution-detail.component';
+import { ConstitutionPreambleComponent } from './constitution/constitution-preamble/constitution-preamble.component';
 
 const routes: Routes = [
+  {
+    path: 'constitution-preamble',
+    component: ConstitutionPreambleComponent
+  },
   {
     path: 'constitution',
     component: ConstitutionComponent

@@ -1,0 +1,59 @@
+.card{
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.title {
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+
+.center {
+  justify-content: center;
+
+}
+
+.cp {
+  cursor: pointer;
+}
+
+.content {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+img {
+  height: 321px;
+  width: 570px;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 1em;
+}
+
+@media only screen and (max-width: 992px) {
+  .card {
+    margin-top: 1rem;
+  }
+}
+
+@media only screen and (max-width: 435px) {
+  .card {
+    margin-top: 1rem;
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  .card {
+    margin-top: 1rem;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  .card {
+    margin-top: 1rem;
+  }
+}

@@ -14,8 +14,8 @@ export class NavbarComponent implements OnInit {
     this.router.navigate(['/']);
   }
 
-  navigateToAllLaws() {
-    this.router.navigate(['constitution']);
+  navigateToPreamble() {
+    this.router.navigate(['constitution-preamble']);
   }
 
 
