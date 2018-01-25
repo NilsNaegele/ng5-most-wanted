@@ -11,7 +11,7 @@ export class NavbarComponent implements OnInit {
   constructor(private router: Router) { }
 
   navigateToSearch() {
-    this.router.navigate(['/']);
+    this.router.navigate(['criminals']);
   }
 
   navigateToPreamble() {

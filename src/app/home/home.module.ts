@@ -6,6 +6,7 @@ import { HomeRoutingModule } from './home-routing.module';
 
 import { HomeComponent } from './home.component';
 import { HomeDetailComponent } from './home-detail/home-detail.component';
+import { HomeOverviewComponent } from './home-overview/home-overview.component';
 
 
 @NgModule({
@@ -14,6 +15,6 @@ import { HomeDetailComponent } from './home-detail/home-detail.component';
     MaterialModule,
     HomeRoutingModule
   ],
-  declarations: [ HomeComponent, HomeDetailComponent]
+  declarations: [ HomeComponent, HomeDetailComponent, HomeOverviewComponent]
 })
 export class HomeModule { }

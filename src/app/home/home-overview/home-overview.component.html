@@ -1,0 +1,32 @@
+<mat-card class="card">
+  <mat-card-header>
+    <div mat-card-avatar></div>
+        <mat-card-title>
+          <h1 class="mat-display-1">{{ title }}</h1>
+        </mat-card-title>
+  </mat-card-header>
+  <img mat-card-image class="cp" routerLink="/criminals" src="{{mostWantedBKA}}"
+                      alt="Hamburg Logo">
+  <mat-card-content>
+    <p class="center mat-subheading-2">
+      {{ description }}
+    </p>
+    <p class="center mat-subheading-2">
+      {{ demand }}
+    </p>
+  </mat-card-content>
+  <mat-card-actions class="actions">
+    <a mat-raised-button color="primary" target="_blank" href="https://www.bka.de/DE/IhreSicherheit/Fahndungen/Personen/UnbekanntePersonen/Ausschreitungen_G20Hamburg/Sachverhalt.html">
+      BKA
+    </a>
+    <a mat-raised-button color="primary" target="_blank" href="https://www.polizei.hamburg/">
+      Polizei HAMBURG
+    </a>
+    <a mat-raised-button color="primary" target="_blank" href="https://www.berlin.de/polizei/">
+       Polizei BERLIN
+    </a>
+  </mat-card-actions>
+  <mat-card-footer>
+      <mat-progress-bar mode="indeterminate"></mat-progress-bar>
+  </mat-card-footer>
+</mat-card>

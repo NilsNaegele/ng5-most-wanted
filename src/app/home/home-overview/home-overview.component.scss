@@ -1,0 +1,106 @@
+.card {
+  max-width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1rem;
+}
+
+.cp {
+  cursor: pointer;
+}
+
+.mat-card-header {
+  justify-content: center;
+}
+
+.mat-card-subtitle {
+  text-align: center;
+}
+
+.mat-card-footer {
+  margin: 0;
+}
+
+.center {
+  text-align: center;
+}
+
+.actions {
+  max-width: 800px;
+  margin-left: 33%;
+  margin-right: auto;
+
+}
+
+img {
+  height: 510px;
+  width: 510px;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 1em;
+}
+
+@media only screen and (max-width: 992px) {
+  .card {
+    margin-top: 1rem;
+  }
+  img {
+    height: 380px;
+    width: 380px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 1em;
+  }
+  .actions {
+    margin-left: 23%;
+  }
+}
+
+@media only screen and (max-width: 435px) {
+  .card {
+    margin-top: 1rem;
+  }
+  img {
+    height: 210px;
+    width: 210px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 1em;
+  }
+  .actions {
+    margin-left: 1%;
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  .card {
+    margin-top: 1rem;
+  }
+  img {
+    height: 210px;
+    width: 210px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 1em;
+  }
+  .actions {
+    margin-left: 1%;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  .card {
+    margin-top: 1rem;
+  }
+  img {
+    height: 210px;
+    width: 210px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 1em;
+  }
+  .actions {
+    margin-left: 1%;
+  }
+}
+

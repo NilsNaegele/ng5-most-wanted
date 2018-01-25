@@ -4,15 +4,26 @@ import { RouterModule, Routes } from '@angular/router';
 
 import { HomeComponent } from './home.component';
 import { HomeDetailComponent } from './home-detail/home-detail.component';
+import { HomeOverviewComponent } from './home-overview/home-overview.component';
 
 const routes: Routes = [
   {
-    path: '',
+    path: 'most-wanted',
+    component: HomeOverviewComponent,
+    pathMatch: 'full'
+  },
+  {
+    path: 'criminals',
     component: HomeComponent,
     pathMatch: 'full'
   },
   {
-    path: ':id',
+    path: '',
+    redirectTo: 'most-wanted',
+    pathMatch: 'full'
+  },
+  {
+    path: 'criminal/:id',
     component: HomeDetailComponent
   }
 ];
